@@ -1,0 +1,30 @@
+ projects = [
+    {
+      title: "Kemampuan Merangkum Tulisan",
+      description: "Lorem ipsum dolor sit amet consectetur...",
+      author: "Al-Baij Sammaan",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTriarVFvdFWUe9t-hiAS8h7EvjWIjFn_NFw&s",
+    },
+    {
+      title: "Creative Writing Project",
+      description: "Lorem ipsum dolor sit amet consectetur...",
+      author: "Jane Doe",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkzD3-JDZ8waMHgDfjC4__96Cd9vurwRD4w&s",
+    },
+    {
+      title: "Technical Report",
+      description: "Lorem ipsum dolor sit amet consectetur...",
+      author: "John Smith",
+      image:
+        "data:image/jpeg;base64,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",
+    },
+    {
+      title: "Research Paper Summary",
+      description: "Lorem ipsum dolor sit amet consectetur...",
+      author: "Anna Lee",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbEkZHonygfe8BcyJhqj7wMcSf7mnEcSQNog&s",
+    },
+  ];
